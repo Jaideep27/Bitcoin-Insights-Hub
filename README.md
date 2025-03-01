@@ -128,22 +128,7 @@ The platform interface is organized into logical sections for intuitive navigati
 - **Export Functionality**: Data export in multiple formats (CSV, JSON, PDF)
 - **Backtesting Module**: Test strategies against historical data
 
-## Development Roadmap
 
-### Q2 2025
-- On-chain metrics integration
-- Advanced pattern recognition system
-- Expanded API connectivity
-
-### Q3 2025
-- Machine learning prediction models
-- Custom indicator framework
-- Enhanced mobile experience
-
-### Q4 2025
-- Institutional-grade analysis tools
-- Multi-asset correlation system
-- API for third-party integration
 
 ## Contributing
 
